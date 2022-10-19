@@ -26,6 +26,10 @@ python kaas_kofam2pathwayAnalysis.py  annot_kegg.txt [org]
    python kaas_kofam2pathwayAnalysis.py  annot_kegg.txt eco
 ```
 
+### Detail Information: 
+
+[https://zhuanlan.zhihu.com/p/375740435?](https://zhuanlan.zhihu.com/p/375740435?)
+
 ### Cite:
 
 
@@ -59,7 +63,9 @@ python GO_anno_from_tab.py -i go.wego
 python GO_anno_from_tab.py -i interpro.out.txt
 ```
 
+### Detail Information: 
 
+[https://zhuanlan.zhihu.com/p/426424799?](https://zhuanlan.zhihu.com/p/426424799?)
 
 ###  Cite:
 
